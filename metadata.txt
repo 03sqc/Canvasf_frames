@@ -1,0 +1,6 @@
+;FFMETADATA1
+minor_version=512
+major_brand=isom
+compatible_brands=isomiso2avc1mp41
+AIGC={"Label": "1", "ContentProducer": "zhipuqingyan", "ProduceID": "38f2aa233fcf421cbfeb3ae5ac1f31ac", "ContentPropagator": "zhipuqingyan", "PropagateID": "38f2aa233fcf421cbfeb3ae5ac1f31ac", "ReservedCode1": "fc43690f", "ReservedCode2": "fc43690f"}
+encoder=Lavf61.7.100

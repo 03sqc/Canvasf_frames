@@ -1,0 +1,14 @@
+.sqc_tab{
+    width: 10rem;
+    height: 3rem;
+    margin-left: 1rem;
+    display: flex;
+    font-size: 2rem;
+    justify-content: space-around;
+    color: rgb(154, 161, 167);
+}
+.sqc_tabdivone{
+    border-bottom: 0.2rem solid black;
+    font-weight: 600;
+    color: black;
+}
